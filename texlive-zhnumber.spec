@@ -54,3 +54,11 @@ expandable in the 'proper' way.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.6-1
++ Revision: 813880
+- Import texlive-zhnumber
+- Import texlive-zhnumber
+
