@@ -1,12 +1,12 @@
-# revision 27120
+# revision 28347
 # category Package
 # catalog-ctan /macros/latex/contrib/zhnumber
-# catalog-date 2012-07-20 19:39:58 +0200
+# catalog-date 2012-11-24 00:28:04 +0100
 # catalog-license lppl1.3
 # catalog-version 1.6
 Name:		texlive-zhnumber
 Version:	1.6
-Release:	1
+Release:	2
 Summary:	Typeset Chinese representations of numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhnumber
@@ -54,11 +54,3 @@ expandable in the 'proper' way.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.6-1
-+ Revision: 813880
-- Import texlive-zhnumber
-- Import texlive-zhnumber
-
