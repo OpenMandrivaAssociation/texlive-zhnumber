@@ -1,12 +1,6 @@
-# revision 28347
-# category Package
-# catalog-ctan /macros/latex/contrib/zhnumber
-# catalog-date 2012-11-24 00:28:04 +0100
-# catalog-license lppl1.3
-# catalog-version 1.6
 Name:		texlive-zhnumber
-Version:	1.6
-Release:	10
+Version:	2.5
+Release:	1
 Summary:	Typeset Chinese representations of numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhnumber
@@ -35,15 +29,10 @@ expandable in the 'proper' way.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/zhnumber/config/zhnumber-big5.cfg
-%{_texmfdistdir}/tex/latex/zhnumber/config/zhnumber-gbk.cfg
-%{_texmfdistdir}/tex/latex/zhnumber/config/zhnumber-utf8.cfg
-%{_texmfdistdir}/tex/latex/zhnumber/zhnumber.sty
-%doc %{_texmfdistdir}/doc/latex/zhnumber/README
-%doc %{_texmfdistdir}/doc/latex/zhnumber/zhnumber.pdf
+%{_texmfdistdir}/tex/latex/zhnumber
+%doc %{_texmfdistdir}/doc/latex/zhnumber
 #- source
-%doc %{_texmfdistdir}/source/latex/zhnumber/zhnumber.dtx
-%doc %{_texmfdistdir}/source/latex/zhnumber/zhnumber.ins
+%doc %{_texmfdistdir}/source/latex/zhnumber
 
 #-----------------------------------------------------------------------
 %prep
