@@ -1,5 +1,5 @@
 Name:		texlive-zhnumber
-Version:	2.5
+Version:	2.6
 Release:	1
 Summary:	Typeset Chinese representations of numbers
 Group:		Publishing
