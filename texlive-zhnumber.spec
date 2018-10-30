@@ -1,6 +1,6 @@
 Name:		texlive-zhnumber
 Version:	2.6
-Release:	2
+Release:	3
 Summary:	Typeset Chinese representations of numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhnumber
