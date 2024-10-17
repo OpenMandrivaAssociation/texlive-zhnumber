@@ -3,7 +3,7 @@ Version:	66115
 Release:	1
 Summary:	Typeset Chinese representations of numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zhnumber
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zhnumber
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zhnumber.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zhnumber.doc.r%{version}.tar.xz
